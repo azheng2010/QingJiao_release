@@ -1,0 +1,13 @@
+{
+  "status": 1,
+  "counts": 1,
+  "data": [
+    {
+      "mac_code": "41DCC8E33A6DF20BFB93A11DA5EF5A2B",
+      "deadline": "2020-12-31 23:59:59",
+      "numlimit": 100,
+      "threadnum": 32,
+      "enabled": true
+    }
+  ]
+}
