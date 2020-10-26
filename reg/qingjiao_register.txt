@@ -2,9 +2,9 @@
   "counts": 3,
   "data": [
     {
-      "deadline": "2020-12-31 23:59:59",
+      "deadline": "2021-10-31 23:59:59",
       "enabled": true,
-      "mac_code": "41DCC8E33A6DF20BFB93A11DA5EF5A2B",
+      "mac_code": "F187E16B283589EDC7EDBF71A3AF85A5",
       "numlimit": 100,
       "threadnum": 32
     },
