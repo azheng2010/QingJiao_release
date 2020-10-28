@@ -18,7 +18,7 @@
     {
       "deadline": "2020-12-31 23:59:59",
       "enabled": true,
-      "mac_code": "41DCC8E33A6DF20BFB93A11DA5EF5A2B",
+      "mac_code": "70B24FA194E0B385F08771648F23C4DA",
       "numlimit": 100,
       "threadnum": 32
     }
